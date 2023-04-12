@@ -1,0 +1,1 @@
+cmd_/home/administrator/Documents/characterdriver/dynamicmajor/modules.order := {   echo /home/administrator/Documents/characterdriver/dynamicmajor/dynamicway.ko; :; } | awk '!x[$$0]++' - > /home/administrator/Documents/characterdriver/dynamicmajor/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/administrator/Documents/characterdriver/staticmajor/staticway.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/administrator/Documents/characterdriver/staticmajor/staticway.ko /home/administrator/Documents/characterdriver/staticmajor/staticway.o /home/administrator/Documents/characterdriver/staticmajor/staticway.mod.o;  true

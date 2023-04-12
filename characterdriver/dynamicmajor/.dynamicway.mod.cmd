@@ -1,0 +1,1 @@
+cmd_/home/administrator/Documents/characterdriver/dynamicmajor/dynamicway.mod := printf '%s\n'   dynamicway.o | awk '!x[$$0]++ { print("/home/administrator/Documents/characterdriver/dynamicmajor/"$$0) }' > /home/administrator/Documents/characterdriver/dynamicmajor/dynamicway.mod

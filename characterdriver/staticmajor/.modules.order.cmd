@@ -1,0 +1,1 @@
+cmd_/home/administrator/Documents/characterdriver/staticmajor/modules.order := {   echo /home/administrator/Documents/characterdriver/staticmajor/staticway.ko; :; } | awk '!x[$$0]++' - > /home/administrator/Documents/characterdriver/staticmajor/modules.order

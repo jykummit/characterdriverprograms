@@ -1,0 +1,1 @@
+cmd_/home/administrator/Documents/characterdriver/chardrv/chardrv.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/administrator/Documents/characterdriver/chardrv/chardrv.ko /home/administrator/Documents/characterdriver/chardrv/chardrv.o /home/administrator/Documents/characterdriver/chardrv/chardrv.mod.o;  true

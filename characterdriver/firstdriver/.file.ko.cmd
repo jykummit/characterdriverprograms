@@ -1,0 +1,1 @@
+cmd_/home/administrator/Documents/characterdriver/firstdriver/file.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/administrator/Documents/characterdriver/firstdriver/file.ko /home/administrator/Documents/characterdriver/firstdriver/file.o /home/administrator/Documents/characterdriver/firstdriver/file.mod.o;  true

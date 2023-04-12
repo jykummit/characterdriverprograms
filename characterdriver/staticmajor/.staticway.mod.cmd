@@ -1,0 +1,1 @@
+cmd_/home/administrator/Documents/characterdriver/staticmajor/staticway.mod := printf '%s\n'   staticway.o | awk '!x[$$0]++ { print("/home/administrator/Documents/characterdriver/staticmajor/"$$0) }' > /home/administrator/Documents/characterdriver/staticmajor/staticway.mod

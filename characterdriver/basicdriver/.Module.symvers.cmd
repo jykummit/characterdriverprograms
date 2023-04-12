@@ -1,0 +1,1 @@
+cmd_/home/administrator/Documents/characterdriver/chardrv/Module.symvers := sed 's/ko$$/o/' /home/administrator/Documents/characterdriver/chardrv/modules.order | scripts/mod/modpost -m -a  -o /home/administrator/Documents/characterdriver/chardrv/Module.symvers -e -i Module.symvers   -T -

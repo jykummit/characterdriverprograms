@@ -1,0 +1,1 @@
+cmd_/home/administrator/Documents/characterdriver/chardrv/chardrv.mod := printf '%s\n'   chardrv.o | awk '!x[$$0]++ { print("/home/administrator/Documents/characterdriver/chardrv/"$$0) }' > /home/administrator/Documents/characterdriver/chardrv/chardrv.mod

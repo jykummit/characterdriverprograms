@@ -1,0 +1,1 @@
+cmd_/home/administrator/Documents/characterdriver/chardrv/modules.order := {   echo /home/administrator/Documents/characterdriver/chardrv/chardrv.ko; :; } | awk '!x[$$0]++' - > /home/administrator/Documents/characterdriver/chardrv/modules.order

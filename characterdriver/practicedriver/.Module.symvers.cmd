@@ -1,0 +1,1 @@
+cmd_/home/administrator/Documents/characterdriver/practicedriver/Module.symvers := sed 's/ko$$/o/' /home/administrator/Documents/characterdriver/practicedriver/modules.order | scripts/mod/modpost -m -a  -o /home/administrator/Documents/characterdriver/practicedriver/Module.symvers -e -i Module.symvers   -T -

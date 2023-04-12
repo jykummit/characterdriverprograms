@@ -1,0 +1,1 @@
+cmd_/home/administrator/Documents/characterdriver/practicedriver/main.mod := printf '%s\n'   main.o | awk '!x[$$0]++ { print("/home/administrator/Documents/characterdriver/practicedriver/"$$0) }' > /home/administrator/Documents/characterdriver/practicedriver/main.mod
